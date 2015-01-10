@@ -2,6 +2,11 @@
 
 # What is Git?
 * Version Control System (VCS).
+* Much better than having
+  * `index.html`
+  * `index.html_backup`
+  * `index.html_before_bootstrap`
+  * `index.html_working`
 
 # Who cares?
 * Developers
