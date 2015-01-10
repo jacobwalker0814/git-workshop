@@ -95,3 +95,4 @@
 # Workshop Attendees
 * Jacob
 * Gina
+* Jaimie
