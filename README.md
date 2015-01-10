@@ -19,6 +19,8 @@
 * Separate work on separate tasks
 * Merge work from separate tasks
 * Collaborate with others
+* Develop complicated workflows
+* Deploy code to production
 
 # Using the terminal
 * Open "Terminal" for Mac, "Git Bash" for Windows and probably "Gnome
