@@ -24,8 +24,10 @@
 * Open "Terminal" for Mac, "Git Bash" for Windows and probably "Gnome
   Terminal" or "Konsole" for Linux
 * `pwd` is your "present working directory"
-* `cd` is "change directory". Switch to the root directory of your project
 * `ls` lists files
+* `cd` is "change directory". Switch to the root directory of your project
+  * Start typing a directory and hit Tab for easy navigation
+  * Go up a directory with `cd ..`
 
 # Getting started
 * Install git. Available for Windows, Mac, Linux, others
