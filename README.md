@@ -64,11 +64,13 @@
     * Bitbucket
     * Others
 
-* Cloning files
-    * `git clone`
-
 * Sharing your work
     * `git remote add`
     * `git push`
 
-* Deploying Code?
+* Contribute To Existing Projects
+    * Fork on GitHub
+    * Clone your repo `git clone`
+    * Make a branch for your change `git checkout -b myChange`
+    * Make changes and commit
+    * Push changes `git push`
