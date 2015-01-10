@@ -79,3 +79,8 @@
 * Make a branch for your change `git checkout -b myChange`
 * Make changes and commit
 * Push changes `git push`
+
+--------------------------------------------------------------------------------
+
+# Workshop Attendees
+* Jacob
