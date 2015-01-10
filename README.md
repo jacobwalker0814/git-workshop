@@ -1,79 +1,81 @@
-* What is Git?
-    * Version Control System (VCS).
+# Ad Astra Academy Git Workshop
 
-* Who cares?
-    * Developers
-    * Authors
-    * Designers
-    * Anyone that works with text
+# What is Git?
+* Version Control System (VCS).
 
-* What can you do with it?
-    * Keep a history of changes to files
-    * Separate work on separate tasks
-    * Merge work from separate tasks
-    * Collaborate with others
+# Who cares?
+* Developers
+* Authors
+* Designers
+* Anyone that works with text
 
-* Using the terminal
-    * Open "Terminal" for Mac, "Git Bash" for Windows and probably "Gnome
-      Terminal" or "Konsole" for Linux
-    * `pwd` is your "present working directory"
-    * `cd` is "change directory"
-    * `ls` lists files
+# What can you do with it?
+* Keep a history of changes to files
+* Separate work on separate tasks
+* Merge work from separate tasks
+* Collaborate with others
 
-* Getting started
-    * Install git. Available for Windows, Mac, Linux, others
-    * `git config --global user.name "Abraham Lincoln"`
-    * `git config --global user.email honestabe@lincoln.com`
-    * `git config --global color.ui auto`
+# Using the terminal
+* Open "Terminal" for Mac, "Git Bash" for Windows and probably "Gnome
+  Terminal" or "Konsole" for Linux
+* `pwd` is your "present working directory"
+* `cd` is "change directory"
+* `ls` lists files
 
-* Adding files
-    * `git status`
-    * `git add`
-    * `git status`
-    * `git commit`
+# Getting started
+* Install git. Available for Windows, Mac, Linux, others
+* `git config --global user.name "Abraham Lincoln"`
+* `git config --global user.email honestabe@lincoln.com`
+* `git config --global color.ui auto`
 
-* Updating files
-    * Edit a file
-    * `git status`
-    * `git diff`
-    * `git add`
-    * `git status`
-    * `git commit`
+# Adding files
+* `git status`
+* `git add`
+* `git status`
+* `git commit`
 
-* Removing files
-    * `git rm file`
-    * `git commit`
+# Updating files
+* Edit a file
+* `git status`
+* `git diff`
+* `git add`
+* `git status`
+* `git commit`
 
-* Reviewing history
-    * `git log`
-    * `git show`
-    * `git blame`
+# Removing files
+* `git rm file`
+* `git commit`
 
-* Branching
-    * `git branch`
-    * `git checkout`
-    * `git checkout -b`
-    * `git merge`
-    * Branch `master`
+# Reviewing history
+* `git log`
+* `git show`
+* `git blame`
 
-* Resolving conflicts
-    * `git status`
-    * `git add`
-    * `git rm`
-    * Merge markers `<<<<<<<|=======|>>>>>>>`
+# Branching
+* `git branch`
+* `git checkout`
+* `git checkout -b`
+* `git merge`
+* Branch `master`
 
-* Remote Repositories
-    * GitHub
-    * Bitbucket
-    * Others
+# Resolving conflicts
+* `git status`
+* `git add`
+* `git rm`
+* Merge markers `<<<<<<<|=======|>>>>>>>`
 
-* Sharing your work
-    * `git remote add`
-    * `git push`
+# Remote Repositories
+* GitHub
+* Bitbucket
+* Others
 
-* Contribute To Existing Projects
-    * Fork on GitHub
-    * Clone your repo `git clone`
-    * Make a branch for your change `git checkout -b myChange`
-    * Make changes and commit
-    * Push changes `git push`
+# Sharing your work
+* `git remote add`
+* `git push`
+
+# Contribute To Existing Projects
+* Fork on GitHub
+* Clone your repo `git clone`
+* Make a branch for your change `git checkout -b myChange`
+* Make changes and commit
+* Push changes `git push`
