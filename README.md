@@ -19,7 +19,7 @@
 * Open "Terminal" for Mac, "Git Bash" for Windows and probably "Gnome
   Terminal" or "Konsole" for Linux
 * `pwd` is your "present working directory"
-* `cd` is "change directory"
+* `cd` is "change directory". Switch to the root directory of your project
 * `ls` lists files
 
 # Getting started
@@ -27,6 +27,7 @@
 * `git config --global user.name "Abraham Lincoln"`
 * `git config --global user.email honestabe@lincoln.com`
 * `git config --global color.ui auto`
+* From project root run `git init`
 
 # Adding files
 * `git status`
