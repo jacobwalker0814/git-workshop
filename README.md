@@ -38,6 +38,7 @@
     * `git diff`
     * `git add`
     * `git status`
+    * `git commit`
 
 * Removing files
     * `git rm file`
@@ -46,12 +47,14 @@
 * Reviewing history
     * `git log`
     * `git show`
+    * `git blame`
 
 * Branching
     * `git branch`
     * `git checkout`
     * `git checkout -b`
     * `git merge`
+    * Branch `master`
 
 * Resolving conflicts
     * `git status`
