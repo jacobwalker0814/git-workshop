@@ -94,4 +94,4 @@
 
 # Workshop Attendees
 * Jacob
-* Jake
+* Mark
